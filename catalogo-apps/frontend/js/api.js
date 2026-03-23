@@ -67,3 +67,24 @@ const Archivos = {
   subir:    (proyectoId, formData)  => apiFetch(`/proyectos/${proyectoId}/archivos`, { method: 'POST', body: formData }),
   eliminar: (id)                    => apiFetch(`/archivos/${id}`, { method: 'DELETE' }),
 };
+
+const Docs = {
+  // Categorías
+  listarCategorias:    ()            => apiFetch('/docs-categorias'),
+  crearCategoria:      (datos)       => apiFetch('/docs-categorias',       { method: 'POST',   body: datos }),
+  actualizarCategoria: (id, datos)   => apiFetch(`/docs-categorias/${id}`, { method: 'PUT',    body: datos }),
+  eliminarCategoria:   (id)          => apiFetch(`/docs-categorias/${id}`, { method: 'DELETE' }),
+  previsualizar: (id) => `${API_BASE}/docs/${id}/previsualizar`,
+
+  // Documentos
+  listar:    (params = {}) => apiFetch('/docs',       { params }),
+  subir:     (formData)    => apiFetch('/docs',       { method: 'POST', body: formData }),
+  actualizar:(id, datos)   => apiFetch(`/docs/${id}`, { method: 'PUT',  body: datos }),
+  eliminar:  (id)          => apiFetch(`/docs/${id}`, { method: 'DELETE' }),
+  descargar: (id)          => `${API_BASE}/docs/${id}/descargar`,
+  obtenerContenido: (id) => apiFetch(`/docs/${id}/contenido`),
+
+  // Asociar/desasociar proyectos
+  asociar:    (docId, proyectoId) => apiFetch(`/docs/${docId}/proyectos/${proyectoId}`, { method: 'POST' }),
+  desasociar: (docId, proyectoId) => apiFetch(`/docs/${docId}/proyectos/${proyectoId}`, { method: 'DELETE' }),
+};

@@ -1,0 +1,198 @@
+12:51:25 URI: /docs/7 | recurso: docs | id: 7 | subrecurso:  | metodo: PUT
+12:53:00 URI: /docs/7 | recurso: docs | id: 7 | subrecurso:  | metodo: PUT
+12:53:00 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+12:53:05 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+12:53:05 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+12:53:05 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+12:53:08 URI: /docs/7 | recurso: docs | id: 7 | subrecurso:  | metodo: PUT
+12:53:08 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+12:53:09 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+12:53:10 URI: /proyectos/7 | recurso: proyectos | id: 7 | subrecurso:  | metodo: GET
+12:53:10 URI: /proyectos/7/archivos | recurso: proyectos | id: 7 | subrecurso: archivos | metodo: GET
+12:53:10 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+12:53:10 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+12:53:13 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+12:53:14 URI: /proyectos/6 | recurso: proyectos | id: 6 | subrecurso:  | metodo: GET
+12:53:14 URI: /proyectos/6/archivos | recurso: proyectos | id: 6 | subrecurso: archivos | metodo: GET
+12:53:14 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+12:53:16 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+12:53:17 URI: /proyectos/5 | recurso: proyectos | id: 5 | subrecurso:  | metodo: GET
+12:53:17 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+12:53:17 URI: /proyectos/5/archivos | recurso: proyectos | id: 5 | subrecurso: archivos | metodo: GET
+12:53:19 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+12:53:20 URI: /proyectos/1 | recurso: proyectos | id: 1 | subrecurso:  | metodo: GET
+12:53:20 URI: /proyectos/1/archivos | recurso: proyectos | id: 1 | subrecurso: archivos | metodo: GET
+12:53:20 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+12:53:20 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:00:25 URI: /auth/me | recurso: auth | id:  | subrecurso:  | metodo: GET
+13:00:25 URI: /tecnologias | recurso: tecnologias | id:  | subrecurso:  | metodo: GET
+13:00:25 URI: /usuarios | recurso: usuarios | id:  | subrecurso:  | metodo: GET
+13:00:25 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:00:26 URI: /proyectos/7 | recurso: proyectos | id: 7 | subrecurso:  | metodo: GET
+13:00:26 URI: /proyectos/7/archivos | recurso: proyectos | id: 7 | subrecurso: archivos | metodo: GET
+13:00:26 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:00:26 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:01:01 URI: /docs/7/proyectos/7 | recurso: docs | id: 7 | subrecurso: proyectos | metodo: DELETE
+13:01:01 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:01:01 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:01:03 URI: /docs/5/proyectos/7 | recurso: docs | id: 5 | subrecurso: proyectos | metodo: DELETE
+13:01:03 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:01:03 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:02:38 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:02:39 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:02:39 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:02:45 URI: /docs-categorias/4 | recurso: docs-categorias | id: 4 | subrecurso:  | metodo: PUT
+13:02:45 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:02:45 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:02:53 URI: /docs/7/previsualizar | recurso: docs | id: 7 | subrecurso: previsualizar | metodo: GET
+13:02:57 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:02:57 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:02:57 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:02:58 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:02:59 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:02:59 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:02:59 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:03:00 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:07:07 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:07:08 URI: /proyectos/7 | recurso: proyectos | id: 7 | subrecurso:  | metodo: GET
+13:07:08 URI: /proyectos/7/archivos | recurso: proyectos | id: 7 | subrecurso: archivos | metodo: GET
+13:07:08 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:07:08 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:07:09 URI: /tecnologias | recurso: tecnologias | id:  | subrecurso:  | metodo: GET
+13:07:09 URI: /usuarios | recurso: usuarios | id:  | subrecurso:  | metodo: GET
+13:07:09 URI: /proyectos/7 | recurso: proyectos | id: 7 | subrecurso:  | metodo: GET
+13:17:09 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:17:09 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:17:10 URI: /docs/5/proyectos/7 | recurso: docs | id: 5 | subrecurso: proyectos | metodo: POST
+13:17:10 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:17:10 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:17:14 URI: /docs/5/previsualizar | recurso: docs | id: 5 | subrecurso: previsualizar | metodo: GET
+13:17:20 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:17:25 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:17:26 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:17:27 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:17:28 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:17:28 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:17:30 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:17:30 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:17:33 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:17:34 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:17:36 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:17:37 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:17:37 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:18:18 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:18:20 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:18:20 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:18:27 URI: /docs/5/previsualizar | recurso: docs | id: 5 | subrecurso: previsualizar | metodo: GET
+13:18:33 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:18:33 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:24:45 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:24:45 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:24:47 URI: /docs/7/previsualizar | recurso: docs | id: 7 | subrecurso: previsualizar | metodo: GET
+13:24:49 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:24:49 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:24:49 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:53:51 URI: /auth/me | recurso: auth | id:  | subrecurso:  | metodo: GET
+13:53:51 URI: /tecnologias | recurso: tecnologias | id:  | subrecurso:  | metodo: GET
+13:53:51 URI: /usuarios | recurso: usuarios | id:  | subrecurso:  | metodo: GET
+13:53:51 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:53:54 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:53:54 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:53:57 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:53:57 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:55:25 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: POST
+13:55:25 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:55:26 URI: /docs/8/previsualizar | recurso: docs | id: 8 | subrecurso: previsualizar | metodo: GET
+13:55:29 URI: /docs/8/previsualizar | recurso: docs | id: 8 | subrecurso: previsualizar | metodo: GET
+13:55:31 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:55:31 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:56:13 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: POST
+13:56:13 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:56:15 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:56:18 URI: /docs/9/previsualizar | recurso: docs | id: 9 | subrecurso: previsualizar | metodo: GET
+13:56:22 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:56:22 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:56:22 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:56:22 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:56:23 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:56:24 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:56:26 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:56:26 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:56:26 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:56:28 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:56:32 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:56:32 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:56:32 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+13:56:44 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+13:56:44 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+13:56:44 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:00:44 URI: /docs/1/descargar | recurso: docs | id: 1 | subrecurso: descargar | metodo: GET
+14:00:59 URI: /docs/2/descargar | recurso: docs | id: 2 | subrecurso: descargar | metodo: GET
+14:01:04 URI: /docs/6/previsualizar | recurso: docs | id: 6 | subrecurso: previsualizar | metodo: GET
+14:01:23 URI: /docs/6/previsualizar | recurso: docs | id: 6 | subrecurso: previsualizar | metodo: GET
+14:01:27 URI: /docs/5/previsualizar | recurso: docs | id: 5 | subrecurso: previsualizar | metodo: GET
+14:02:17 URI: /docs/1/descargar | recurso: docs | id: 1 | subrecurso: descargar | metodo: GET
+14:02:24 URI: /docs/2/descargar | recurso: docs | id: 2 | subrecurso: descargar | metodo: GET
+14:02:26 URI: /docs/5/previsualizar | recurso: docs | id: 5 | subrecurso: previsualizar | metodo: GET
+14:08:06 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+14:08:06 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:08:07 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+14:08:07 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:08:08 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+14:08:08 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:08:08 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+14:08:08 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:08:08 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+14:08:08 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:08:11 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+14:08:11 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+14:08:11 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:08:19 URI: /docs/9 | recurso: docs | id: 9 | subrecurso:  | metodo: PUT
+14:08:19 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:08:21 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:08:21 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:08:21 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:08:22 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:08:22 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:08:23 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:08:24 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:08:27 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+14:08:27 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+14:08:33 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: POST
+14:08:33 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:08:36 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+14:13:26 URI: /auth/me | recurso: auth | id:  | subrecurso:  | metodo: GET
+14:13:26 URI: /tecnologias | recurso: tecnologias | id:  | subrecurso:  | metodo: GET
+14:13:26 URI: /usuarios | recurso: usuarios | id:  | subrecurso:  | metodo: GET
+14:13:26 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+14:13:29 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+14:13:29 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:13:32 URI: /docs/9/previsualizar | recurso: docs | id: 9 | subrecurso: previsualizar | metodo: GET
+14:13:34 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+14:13:34 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+14:13:34 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:13:34 URI: /docs/9/contenido | recurso: docs | id: 9 | subrecurso: contenido | metodo: GET
+14:13:50 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+14:13:50 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+14:13:50 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:13:50 URI: /docs/10/contenido | recurso: docs | id: 10 | subrecurso: contenido | metodo: GET
+14:15:31 URI: /auth/me | recurso: auth | id:  | subrecurso:  | metodo: GET
+14:15:31 URI: /tecnologias | recurso: tecnologias | id:  | subrecurso:  | metodo: GET
+14:15:31 URI: /usuarios | recurso: usuarios | id:  | subrecurso:  | metodo: GET
+14:15:31 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+14:15:34 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+14:15:34 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:15:36 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+14:15:36 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+14:15:36 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:15:36 URI: /docs/10/contenido | recurso: docs | id: 10 | subrecurso: contenido | metodo: GET
+14:15:38 URI: /docs/10 | recurso: docs | id: 10 | subrecurso:  | metodo: PUT
+14:15:38 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:15:40 URI: /docs-categorias | recurso: docs-categorias | id:  | subrecurso:  | metodo: GET
+14:15:40 URI: /proyectos | recurso: proyectos | id:  | subrecurso:  | metodo: GET
+14:15:40 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:15:40 URI: /docs/10/contenido | recurso: docs | id: 10 | subrecurso: contenido | metodo: GET
+14:15:45 URI: /docs/10 | recurso: docs | id: 10 | subrecurso:  | metodo: PUT
+14:15:45 URI: /docs | recurso: docs | id:  | subrecurso:  | metodo: GET
+14:15:46 URI: /docs/10/previsualizar | recurso: docs | id: 10 | subrecurso: previsualizar | metodo: GET
+14:15:49 URI: /docs/10/previsualizar | recurso: docs | id: 10 | subrecurso: previsualizar | metodo: GET

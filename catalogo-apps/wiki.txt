@@ -1,0 +1,27 @@
+Poder crear archivos con categorías, estilo wiki, crear un sidebar para filtrar por categorías, que se puedan buscar por el buscador principal. Hacer que se pueda previsualizar un documento sin tener que descargarlo anexar archivos a los proyectos, corregir que al editar la descripción de un proyecto, sale apelotonado una vez se guarda
+
+Mirar a ver si es posible algún plugin o librería para arrastrar imágenes en vez de tener que poner la ruta y tener que subir la imagen a una carpeta local. Osea que se pueda poner una imagen de manera mas sencilla que no teniendo que subirla a la carpeta y luego en el md poner la ruta a la imagen
+
+Que se queden guardados los campos de linea, si que se quedan pero no se muestran los saltos de linea.
+
+
+CREATE TABLE wiki_categorias (
+    id          INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    proyecto_id INT UNSIGNED NOT NULL,
+    nombre      VARCHAR(100) NOT NULL,
+    color       VARCHAR(7) NOT NULL DEFAULT '#6366f1',
+    creado_en   DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    CONSTRAINT fk_wc_proyecto FOREIGN KEY (proyecto_id) REFERENCES proyectos(id) ON DELETE CASCADE
+) ENGINE=InnoDB;
+
+CREATE TABLE wiki_paginas (
+    id           INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    proyecto_id  INT UNSIGNED NOT NULL,
+    categoria_id INT UNSIGNED NULL,
+    titulo       VARCHAR(200) NOT NULL,
+    contenido    LONGTEXT,
+    creado_en    DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    actualizado_en DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    CONSTRAINT fk_wp_proyecto  FOREIGN KEY (proyecto_id)  REFERENCES proyectos(id)      ON DELETE CASCADE,
+    CONSTRAINT fk_wp_categoria FOREIGN KEY (categoria_id) REFERENCES wiki_categorias(id) ON DELETE SET NULL
+) ENGINE=InnoDB;
